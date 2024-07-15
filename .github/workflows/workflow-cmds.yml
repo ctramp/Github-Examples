@@ -1,4 +1,4 @@
-name: workflow cmds
+name: "workflow cmds"
 'on':
   - push
 jobs:
