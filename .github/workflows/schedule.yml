@@ -1,4 +1,4 @@
-name: Git Schedule
+name: Git Schedule Event
 
 on:
   schedule:
